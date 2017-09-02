@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-This is cause of conflict
+There is an update, more text
